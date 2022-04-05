@@ -9,7 +9,8 @@ class Stack {
   }
 
   pop() {
-    return this.stack.pop();
+    const list = this.stack;
+    return list.length ? list.pop() : null;
   }
 
   peek() {

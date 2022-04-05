@@ -1,0 +1,19 @@
+{
+  "name": "dsna-stack-queues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mira-kine/dsna-stack-queues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mira-kine/dsna-stack-queues/issues"
+  },
+  "homepage": "https://github.com/mira-kine/dsna-stack-queues#readme"
+}
